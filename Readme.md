@@ -1,4 +1,4 @@
-
+<img src="/images/mindscaringeachother.png"  width="600">
   
 ## 회사
 
