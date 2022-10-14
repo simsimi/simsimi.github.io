@@ -51,17 +51,19 @@ layout: home
 <span style="color:white">.</span>
 ## **연락처**
 
-**심심이주식회사**   
-사업자등록번호 : 211-87-29442(대표자 : 최정회)  
-주소 : 06194 서울 강남구 테헤란로78길 14-14(대치동 891-36) 제나빌딩 6층  
-전화 : 02-562-5332 (업무일 오전 11:00 ~ 16:00)  
-통신판매업신고: 제 2009-서울강남-00350 호  
-  
-Business License  No. : 211-87-29442  
-Address : SimSimi Inc., 891-36, Daechi, Gangnam, Seoul, S. Korea 06194  
-Phone : +82-2-562-5332 (Available in Korean Business hour)  
-Email : support@simsimi.com
+**심심이주식회사**  
 
-- 인스타그램 : https://www.instagram.com/hey_simsimi/
-- 디스코드(문의/팀과소통/커뮤니티/서포터즈/블록체인) https://discord.gg/x2JSr4p8
-- 한국어 블로그(기술/기능소개/언론보도) : https://blog.naver.com/simsimi_kr
+    사업자등록번호 : 211-87-29442(대표자 : 최정회)  
+    주소 : 06194 서울 강남구 테헤란로78길 14-14(대치동 891-36) 제나빌딩 6층  
+    전화 : 02-562-5332 (업무일 오전 11:00 ~ 16:00)  
+    통신판매업신고: 제 2009-서울강남-00350 호  
+
+    Business License  No. : 211-87-29442  
+    Address : SimSimi Inc., 891-36, Daechi, Gangnam, Seoul, S. Korea 06194  
+    Phone : +82-2-562-5332 (Available in Korean Business hour)  
+    Email : support@simsimi.com
+
+**공식 채널**   
+- [인스타그램](https://www.instagram.com/hey_simsimi/)
+- [디스코드](https://discord.gg/x2JSr4p8) : 문의, 팀과 소통, 커뮤니티, 서포터즈, 블록체인
+- [한국어 블로그](https://blog.naver.com/simsimi_kr) : 기술/서비스 소개, 언론보도
