@@ -35,6 +35,7 @@ layout: home
 <span style="color:white">.</span>
 ## **연혁**
 
+- 2022년 [인공지능 학습용 데이터 구축사업 주관]([https://www.bosa.co.kr/news/articleView.html?idxno=2136971](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=%EC%8B%AC%EC%8B%AC%EC%9D%B4+%ED%95%9C%EA%B5%AD%EC%96%B4+%EB%B8%94%EB%A0%8C%EB%8D%94%EB%B4%87+%EB%8D%B0%EC%9D%B4%ED%84%B0) (한국어 블렌더봇 데이터)
 - 2021년 [인공지능 학습용 데이터 구축사업 주관](https://search.naver.com/search.naver?where=news&sm=tab_tnw&query=%EC%8B%AC%EC%8B%AC%EC%9D%B4&sort=0&photo=0&field=0&pd=0&ds=&de=&mynews=0&office_type=0&office_section_code=0&news_office_checked=&related=1&docid=53510000084283&nso=so:r,p:all,a:all) (대화형 인공지능을 위한 윤리검증 데이터)
 - 2020년 [범부처전주기의료기기연구개발사업 주관](https://www.bosa.co.kr/news/articleView.html?idxno=2136971) (AI 기반 고령자 정신건강 모니터링)
 - 2019년 [심심이 챗봇공방](https://workshop.simsimi.com/) 오픈
@@ -51,7 +52,7 @@ layout: home
 ## **연락처**
 
 **심심이주식회사**   
-사업자등록번호 : 211-87-29442(대표자 : 김유진)  
+사업자등록번호 : 211-87-29442(대표자 : 최정회)  
 주소 : 06194 서울 강남구 테헤란로78길 14-14(대치동 891-36) 제나빌딩 6층  
 전화 : 02-562-5332 (업무일 오전 11:00 ~ 16:00)  
 통신판매업신고: 제 2009-서울강남-00350 호  
