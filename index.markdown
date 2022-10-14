@@ -61,3 +61,7 @@ Business License  No. : 211-87-29442
 Address : SimSimi Inc., 891-36, Daechi, Gangnam, Seoul, S. Korea 06194  
 Phone : +82-2-562-5332 (Available in Korean Business hour)  
 Email : support@simsimi.com
+
+- 인스타그램 : https://www.instagram.com/hey_simsimi/
+- 디스코드(문의/팀과소통/커뮤니티/서포터즈/블록체인) https://discord.gg/x2JSr4p8
+- 한국어 블로그(기술/기능소개/언론보도) : https://blog.naver.com/simsimi_kr
