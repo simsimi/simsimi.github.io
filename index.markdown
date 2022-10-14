@@ -64,6 +64,6 @@ layout: home
     Email : support@simsimi.com
 
 **공식 채널**   
-- [인스타그램](https://www.instagram.com/hey_simsimi/)
-- [디스코드](https://discord.gg/x2JSr4p8) : 문의, 팀과 소통, 커뮤니티, 서포터즈, 블록체인
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="16">인스타그램](https://www.instagram.com/hey_simsimi/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width="16">트위터](https://www.twitter.com/hey_simsimi)
+- [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Discord_logo.svg/2880px-Discord_logo.svg.png" height="16">디스코드](https://discord.gg/x2JSr4p8) : 문의, 팀과 소통, 커뮤니티, 서포터즈, 블록체인
 - [한국어 블로그](https://blog.naver.com/simsimi_kr) : 기술/서비스 소개, 언론보도
