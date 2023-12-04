@@ -42,7 +42,10 @@ layout: home
 <span style="color:white">.</span>
 ## **연혁**
 
+- 2023년 기술신용평가 TI-3 인증
+- 2023년 AI 대화 기반 우울증 디지털치료제 임상 앱 개발(보건산업진흥원, PI 고려대학교 안암병원 함병주 교수)
 - 2023년 인공지능 학습용 데이터 구축사업 주관 (AI 응답 결과에 대한 품질 평가 데이터)
+- 2023년 초거대 AI 대화 데이터 구축 S/W 국내 최초 GS 1등급 인증
 - 2022년 [인공지능 학습용 데이터 구축사업 주관](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=%EC%8B%AC%EC%8B%AC%EC%9D%B4+%ED%95%9C%EA%B5%AD%EC%96%B4+%EB%B8%94%EB%A0%8C%EB%8D%94%EB%B4%87+%EB%8D%B0%EC%9D%B4%ED%84%B0) (한국어 블렌더봇 데이터)
 - 2021년 [인공지능 학습용 데이터 구축사업 주관](https://search.naver.com/search.naver?where=news&sm=tab_tnw&query=%EC%8B%AC%EC%8B%AC%EC%9D%B4&sort=0&photo=0&field=0&pd=0&ds=&de=&mynews=0&office_type=0&office_section_code=0&news_office_checked=&related=1&docid=53510000084283&nso=so:r,p:all,a:all) (대화형 인공지능을 위한 윤리검증 데이터)
 - 2020년 [범부처전주기의료기기연구개발사업 주관](https://www.bosa.co.kr/news/articleView.html?idxno=2136971) (AI 기반 고령자 정신건강 모니터링)
@@ -72,7 +75,9 @@ layout: home
     Email : support@simsimi.com
 
 **공식 채널**   
+- [한국어 블로그](https://blog.naver.com/simsimi_kr) : 기술/서비스 소개, 언론보도
+- [링크드인](https://www.linkedin.com/company/simsimi-inc)
+- [<svg width="16" heigth="16" viewBox="0 0 1043.63 592.71" class="bj bk"><g data-name="Layer 2"><g data-name="Layer 1"><path d="M588.67 296.36c0 163.67-131.78 296.35-294.33 296.35S0 460 0 296.36 131.78 0 294.34 0s294.33 132.69 294.33 296.36M911.56 296.36c0 154.06-65.89 279-147.17 279s-147.17-124.94-147.17-279 65.88-279 147.16-279 147.17 124.9 147.17 279M1043.63 296.36c0 138-23.17 249.94-51.76 249.94s-51.75-111.91-51.75-249.94 23.17-249.94 51.75-249.94 51.76 111.9 51.76 249.94"></path></g></g></svg> 영어 블로그](https://medium.com/@simsimiofficial)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="16">인스타그램](https://www.instagram.com/hey_simsimi/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width="16">트위터](https://www.twitter.com/hey_simsimi)
 - [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Discord_logo.svg/2880px-Discord_logo.svg.png" height="16">디스코드](https://discord.gg/Yw3NMFpA2D) : 문의, 팀과 소통, 커뮤니티, 서포터즈, 블록체인
-- [한국어 블로그](https://blog.naver.com/simsimi_kr) : 기술/서비스 소개, 언론보도
-- [<svg width="16" heigth="16" viewBox="0 0 1043.63 592.71" class="bj bk"><g data-name="Layer 2"><g data-name="Layer 1"><path d="M588.67 296.36c0 163.67-131.78 296.35-294.33 296.35S0 460 0 296.36 131.78 0 294.34 0s294.33 132.69 294.33 296.36M911.56 296.36c0 154.06-65.89 279-147.17 279s-147.17-124.94-147.17-279 65.88-279 147.16-279 147.17 124.9 147.17 279M1043.63 296.36c0 138-23.17 249.94-51.76 249.94s-51.75-111.91-51.75-249.94 23.17-249.94 51.75-249.94 51.76 111.9 51.76 249.94"></path></g></g></svg> 영어 블로그](https://medium.com/@simsimiofficial)
+****
