@@ -23,7 +23,7 @@ layout: home
 <span style="color:white">.</span>
 ### **챗브레인** : 초거대AI 기반 업무 생산성 향상 솔루션
 
-2023년 3월 2일, 미국 OPEN AI사에서 챗GPT API(gpt-turbo-3.5)를 공개한 당일 출시한 최초의 챗GPT API 응용 솔루션입니다. 출시 후 3일 만에 광역지방자치단체(경상북도)에서 전격 도입하여 수 천 명의 공무원의 업무 생산성 향상을 돕기 시작한 챗브레인은 단체장이나 기업 임원에게는 조직원들이 필요로 하는 것이 무엇인지 알 수 있는 생생한 데이터에 기반한 분석과 인사이트를 제공합니다.
+2023년 3월 2일, 미국 OPEN AI사에서 챗GPT API(gpt-turbo-3.5)를 공개한 당일 출시한 최초의 챗GPT API 응용 솔루션입니다. 출시 후 3일 만에 광역지방자치단체(경상북도)에서 전격 도입하여 수 천 명의 공무원의 업무 생산성 향상을 돕기 시작했습니다. 열정적인 지자체의 협조를 얻어 실무의 세부사항을 기반으로 고도화하여 검증된 추가 모듈을 탑재한 챗브레인은 지자체 행정 업무에 공식 적용된 최초의 생성형 AI 솔루션으로 기록되었습니다.
 > [챗브레인 공식 홈페이지](https://chatbrain.kr)
 
   
@@ -42,10 +42,15 @@ layout: home
 <span style="color:white">.</span>
 ## **연혁**
 
+- 2024년 광역자치단체 생성형 AI 대규모 사업 전략계획 수립 수행
+- 2024년 생성형 AI 기반 시각장애인 자율보행 보조 시스템 개발 착수(한국전파진흥협회 지원)
+- 2024년 국내 최초 LLM 기반 종합대학교 학사정보시스템 공급(챗브레인)
+- 2023년 챗브레인 2.0 출시 및 광역자치단체 업데이트 적용
 - 2023년 기술신용평가 TI-3 인증
 - 2023년 AI 대화 기반 우울증 디지털치료제 임상 앱 개발(보건산업진흥원, PI 고려대학교 안암병원 함병주 교수)
 - 2023년 인공지능 학습용 데이터 구축사업 주관 (AI 응답 결과에 대한 품질 평가 데이터)
 - 2023년 초거대 AI 대화 데이터 구축 S/W 국내 최초 GS 1등급 인증
+- 2023년 [국내 최초 챗GPT API 응용솔루션 출시 및 최초 공급(광역자치단체 경상북도)](https://news.mtn.co.kr/news-detail/2023031616384145021)
 - 2022년 [인공지능 학습용 데이터 구축사업 주관](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=%EC%8B%AC%EC%8B%AC%EC%9D%B4+%ED%95%9C%EA%B5%AD%EC%96%B4+%EB%B8%94%EB%A0%8C%EB%8D%94%EB%B4%87+%EB%8D%B0%EC%9D%B4%ED%84%B0) (한국어 블렌더봇 데이터)
 - 2021년 [인공지능 학습용 데이터 구축사업 주관](https://search.naver.com/search.naver?where=news&sm=tab_tnw&query=%EC%8B%AC%EC%8B%AC%EC%9D%B4&sort=0&photo=0&field=0&pd=0&ds=&de=&mynews=0&office_type=0&office_section_code=0&news_office_checked=&related=1&docid=53510000084283&nso=so:r,p:all,a:all) (대화형 인공지능을 위한 윤리검증 데이터)
 - 2020년 [범부처전주기의료기기연구개발사업 주관](https://www.bosa.co.kr/news/articleView.html?idxno=2136971) (AI 기반 고령자 정신건강 모니터링)
