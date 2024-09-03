@@ -42,11 +42,14 @@ layout: home
 <span style="color:white">.</span>
 ## **연혁**
 
+- 2024년 광역자치단체 데이터 개방 포털을 위한 생성형 AI 기반 검색 beta 서비스 개발
+- 2024년 챗브레인 AI주무관 3개 기능 [광역지자체 정식 공급](https://blog.naver.com/simsimi_official/223479387073) (보도자료 초안작성, 사업건의서 작성, 동영상 Q&A)
 - 2024년 광역자치단체 생성형 AI 대규모 사업 전략계획 수립 수행
 - 2024년 생성형 AI 기반 시각장애인 자율보행 보조 시스템 개발 착수(한국전파진흥협회 지원)
 - 2024년 국내 최초 LLM 기반 종합대학교 학사정보시스템 공급(챗브레인)
-- 2023년 챗브레인 2.0 출시 및 [광역자치단체 업데이트 적용](https://blog.naver.com/simsimi_official/223479387073)
+- 2023년 챗브레인 2.0 출시 및 광역자치단체 업데이트 적용
 - 2023년 기술신용평가 TI-3 인증
+- 2023년 디지털피노타이핑 데이터 플랫폼 '센서브레인' 개발 및 운용 개시
 - 2023년 AI 대화 기반 우울증 디지털치료제 임상 앱 '닥터 심심이' 개발(보건산업진흥원, PI 고려대학교 안암병원 함병주 교수) [Android](https://play.google.com/store/apps/details?id=com.ismaker.behavioral_activation2) | [iOS](https://apps.apple.com/kr/app/%EB%8B%A5%ED%84%B0-%EC%8B%AC%EC%8B%AC%EC%9D%B42/id6478189911)
 - 2023년 인공지능 학습용 데이터 구축사업 주관 (AI 응답 결과에 대한 품질 평가 데이터)
 - 2023년 초거대 AI 대화 데이터 구축 S/W 국내 최초 GS 1등급 인증
