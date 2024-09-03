@@ -50,7 +50,7 @@ layout: home
 - 2023년 AI 대화 기반 우울증 디지털치료제 임상 앱 '닥터 심심이' 개발(보건산업진흥원, PI 고려대학교 안암병원 함병주 교수) [Android](https://play.google.com/store/apps/details?id=com.ismaker.behavioral_activation2) | [iOS](https://apps.apple.com/kr/app/%EB%8B%A5%ED%84%B0-%EC%8B%AC%EC%8B%AC%EC%9D%B42/id6478189911)
 - 2023년 인공지능 학습용 데이터 구축사업 주관 (AI 응답 결과에 대한 품질 평가 데이터)
 - 2023년 초거대 AI 대화 데이터 구축 S/W 국내 최초 GS 1등급 인증
-- 2023년 [국내 최초 챗GPT API 응용솔루션 출시 및 최초 공급(광역자치단체 경상북도)](https://news.mtn.co.kr/news-detail/2023031616384145021)
+- 2023년 [국내 최초 챗GPT API 응용솔루션 '챗브레인' 출시 및 최초 공급(광역자치단체 경상북도)](https://news.mtn.co.kr/news-detail/2023031616384145021)
 - 2022년 [인공지능 학습용 데이터 구축사업 주관](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=%EC%8B%AC%EC%8B%AC%EC%9D%B4+%ED%95%9C%EA%B5%AD%EC%96%B4+%EB%B8%94%EB%A0%8C%EB%8D%94%EB%B4%87+%EB%8D%B0%EC%9D%B4%ED%84%B0) (한국어 블렌더봇 데이터)
 - 2021년 [인공지능 학습용 데이터 구축사업 주관](https://search.naver.com/search.naver?where=news&sm=tab_tnw&query=%EC%8B%AC%EC%8B%AC%EC%9D%B4&sort=0&photo=0&field=0&pd=0&ds=&de=&mynews=0&office_type=0&office_section_code=0&news_office_checked=&related=1&docid=53510000084283&nso=so:r,p:all,a:all) (대화형 인공지능을 위한 윤리검증 데이터)
 - 2020년 [범부처전주기의료기기연구개발사업 주관](https://www.bosa.co.kr/news/articleView.html?idxno=2136971) (AI 기반 고령자 정신건강 모니터링)
