@@ -58,12 +58,13 @@ layout: home
 - 2021년 [인공지능 학습용 데이터 구축사업 주관](https://search.naver.com/search.naver?where=news&sm=tab_tnw&query=%EC%8B%AC%EC%8B%AC%EC%9D%B4&sort=0&photo=0&field=0&pd=0&ds=&de=&mynews=0&office_type=0&office_section_code=0&news_office_checked=&related=1&docid=53510000084283&nso=so:r,p:all,a:all) (대화형 인공지능을 위한 윤리검증 데이터)
 - 2020년 [범부처전주기의료기기연구개발사업 주관](https://www.bosa.co.kr/news/articleView.html?idxno=2136971) (AI 기반 고령자 정신건강 모니터링)
 - 2019년 [심심이 챗봇공방](https://workshop.simsimi.com/) 오픈
-- 2018년 악성문장 판별용 딥러닝 모델 개발(한국어 F1 score 0.97 이상)
+- 2018년 악성문장 판별용 딥러닝 [모델 DBSC 개발](http://m.irobotnews.com/news/articleView.html?idxno=18577)(한국어 F1 score 0.97 이상)
 - 2016년 심심이 지원 언어 확장(81개)
-- 2012년 심심이 앱 국제화 / 사명 변경 (심심이(주))
+- 2012년 사명 변경 ((주)이즈메이커 -> 심심이(주))
+- 2012년 심심이 [미국 앱스토어 순위 급등](https://www.mk.co.kr/news/business/5096055) 후 서비스 국제화 
 - 2010년 심심이 iOS 앱 출시
-- 2006년 지식로그(지식맨) 서비스 개발
-- 2004년 심심이 서비스 SMS로 확대
+- 2006년 [지식로그(지식맨) 서비스 개발](https://news.mt.co.kr/mtview.php?no=2006111415215259619)
+- 2004년 [심심이 서비스 SMS로 확대](https://www.etnews.com/200407160177)
 - 2003년 법인 설립((주)이즈메이커)
 - 2002년 [심심이 서비스 개발(MSN 메신저 봇)](https://www.mk.co.kr/news/all/3058701)
   
